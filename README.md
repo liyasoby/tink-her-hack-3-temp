@@ -1,33 +1,33 @@
-# [Project Name] 🎯
+Tracking system
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hiii
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Fathima Rysha - College of Engineering Chengannur
+- Member 2: Liya Mariya Soby- College of Engineering Chengannur
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://ryshafathima.github.io/tracking-system/
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project helps in tracking Bus.This is easily accessable for everyone
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Common people are struggling on roads without knowing the timing of bus inorder to help them we designed this bus tracking system
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+we are solving this by tracking the bus which help people to locate the current position of bus
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- HTML
+- CSS,JAVASCRIPT
+- Leaflet
 - [Tools used]
 
 For Hardware:
